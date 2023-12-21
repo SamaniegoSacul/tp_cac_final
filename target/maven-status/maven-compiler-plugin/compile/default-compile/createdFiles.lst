@@ -1,0 +1,5 @@
+dao\MascotasDao.class
+interfaces\Crud.class
+config\Conectar_bd.class
+controller\Controller.class
+model\Mascotas.class
